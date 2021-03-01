@@ -9,7 +9,7 @@ public class NumFinderMain {
         // nf.find(new int[] {4, 25, 7, 9});
 
         // this crashes
-        nf.find(new int[] {4, 3, 2, 1});
+        nf.find(new int[] {14,64,23,45});
 
         System.out.println(nf.getLargest());
         System.out.println(nf.getSmallest());
